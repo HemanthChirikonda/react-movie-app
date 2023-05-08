@@ -1,0 +1,44 @@
+.formContainer{
+margin-top: 20px;
+
+}
+
+.form{
+    max-width: 25vw;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.formGroup{
+ display: flex;
+margin: 10px;
+}
+.row{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.inputContainer>input{
+border: 1px solid black;
+border-radius: 2px;
+}
+
+.inputContainer>textarea{
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 100%;
+    }
+
+
+    
+.label{
+    width: 50%;
+ text-align: left;
+}
+.btn{
+    background-color: rgb(78, 238, 246);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
